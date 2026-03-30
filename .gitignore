@@ -1,6 +1,12 @@
-# Terraform files to ignore
+# Terraform sensitive files
 *.tfstate
 *.tfstate.*
 *.tfvars
 .terraform/
 .terraform.lock.hcl
+
+# Logs
+crash.log
+
+# OS files
+.DS_Store
