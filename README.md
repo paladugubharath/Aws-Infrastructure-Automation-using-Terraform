@@ -91,4 +91,4 @@ Gmail: paladugubharath0408@gmail.com
 
 Github: https://github.com/paladugubharath/Aws-Infrastructure-Automation-using-Terraform.git
 
-linkedIn: 
+linkedIn: https://www.linkedin.com/posts/paladugubharath_devops-terraform-aws-activity-7444533947839131648-Eyfq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnm0GIBZi1mOsRh7v278PQWRW-IZuZIImw
